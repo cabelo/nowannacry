@@ -9,7 +9,7 @@ Disable SMBv1 to fight ransomware Wanna Cry
                                                        |___/ 
 
 Autor Alessandro de Oliveira Faria (A.K.A. cabelo@opensuse.org) 
-Donations: (http://assuntonerd.com.br/nowannacry)
+[About NoWannaCry](http://assuntonerd.com.br/nowannacry)
 
 ```
 
