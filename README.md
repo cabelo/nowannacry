@@ -12,6 +12,7 @@ Autor Alessandro de Oliveira Faria (A.K.A. cabelo@opensuse.org)
 [About NoWannaCry](http://assuntonerd.com.br/nowannacry)
 
 ```
+[Download Binary files in SourceForge.net](https://sourceforge.net/projects/owasp-zap-live-cd/files/nowannacry/nowannacry.zip/download)
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N8CNE6L994BRY)
 
