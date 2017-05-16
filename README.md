@@ -17,6 +17,6 @@ Autor Alessandro de Oliveira Faria (A.K.A. cabelo@opensuse.org)
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N8CNE6L994BRY)
 
 
-[Video](https://cabelovivaolinux.files.wordpress.com/2017/05/screenshot_20170516_081401.png)
+![Video](https://cabelovivaolinux.files.wordpress.com/2017/05/screenshot_20170516_081401.png)
 [YouTube Link.](https://www.youtube.com/watch?v=LrCuTI9tnnk)
 
