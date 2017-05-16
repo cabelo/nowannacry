@@ -95,6 +95,7 @@ int main(void) {
 		testCloseKey(result_close);
 	}
 	printf("Finish!\n");
+	system("pause");
 	return 0;
 }
 
